@@ -1,0 +1,201 @@
+body,html {
+	padding: 0;
+	margin: 0;
+	background-color: #dcd2c7;
+	overflow: auto;
+}
+.shapka {
+	width: 100%;
+	height: 100px;
+	background-color: #3c2626;
+	position: absolute;
+}
+h1 {
+	color: #e1d3b3;
+	position:absolute;
+	top: -15px;
+	left: 800px;
+	font-size: 40px;
+  font-family: "Cambria match";
+}
+.shap {
+	color: #e1d3b3;
+	position: absolute;
+	top: 30px;
+	left: 700px;
+	font-size: 27px;
+  font-family: "Cambria match";
+}
+.nav {
+	width: 100%;
+	height: 50px;
+	background-color: #3c2626;
+	position: absolute;
+	top: 540px;
+	 list-style: none;
+}
+				
+div.nav a {
+    display:block;
+    width: 5em;
+                padding:10px;
+                margin: 0 5px;
+                text-decoration: none;
+                color: #e1d3b3;
+                text-align: center;
+            }
+  div.nav a:hover{
+    background-color: #8b7a58;
+      color: black;
+     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+            }
+            div.nav li {
+            	 float: left;
+            }
+  .foto img {
+  	width: 100%;
+  }
+  .pr {
+  	position: absolute;
+  	top: 0px;
+  	left: 570px;
+  	font-size: 26px;
+  }
+  .osn {
+    font-family: "Cambria math";
+  	position: absolute;
+  	top: 610px;
+  	left: 500px;
+    font-size: 30px;
+  }
+  .one {
+    font-family: "Cambria math";
+  	position: absolute;
+  	top: 630px;
+  	left: 1175px;
+  	width: 125px;
+  	height: 40px;
+  	background-color: #e6aa29;
+  	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  	border-radius: 7px;
+  	font-size: 18px;
+  	border: 1px solid #e6aa29;
+  }
+  .one a {
+  	text-decoration: none;
+  	color: black;
+  }
+  .photo_osn {
+  	position: absolute;
+  	top: 710px;
+  	left: 400px;
+  }
+  .cont1, .cont2, .cont3 {
+  	float: left;
+  	  	padding-left: 70px;
+  	margin-left: 30px;
+  }
+  .two{
+    font-family: "Cambria math";
+    position: absolute;
+    top: 1000px;
+    left: 500px;
+    width: 120px;
+    height: 40px;
+    background-color: #e6aa29;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 7px;
+    font-size: 15px;
+    border: 1px solid #e6aa29;
+     font-size: 22px;
+  }
+   .three{
+    font-family: "Cambria math";
+    position: absolute;
+    top: 1000px;
+    left: 800px;
+    width: 120px;
+    height: 40px;
+    background-color: #e6aa29;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 7px;
+    font-size: 15px;
+    border: 1px solid #e6aa29;
+     font-size: 22px;
+  }
+   .fo{
+    font-family: "Cambria math";
+    position: absolute;
+    top: 1000px;
+    left: 1100px;
+    width: 120px;
+    height: 40px;
+    background-color: #e6aa29;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 7px;
+    font-size: 15px;
+    border: 1px solid #e6aa29;
+    font-size: 22px;
+  }
+.fo a {
+    text-decoration: none;
+    color: black;
+    }
+    .two a {
+    text-decoration: none;
+    color: black;
+    }
+    .three a {
+    text-decoration: none;
+    color: black;
+    }
+
+  .t1{
+    font-family: "Cambria math";
+position: absolute;
+    top: 898px;
+    left: 500px;
+    color: black;
+}
+  .t2{
+    font-family: "Cambria math";
+position: absolute;
+    top: 898px;
+    left: 800px;
+    color: black;
+}
+  .t3{
+     font-family: "Cambria math";
+position: absolute;
+    top: 898px;
+    left: 1100px;
+    color: black;
+}
+ .osn2 {
+    font-family: "Cambria math";
+    position: absolute;
+    top: 1050px;
+    left: 500px;
+    font-size: 30px;
+  }
+    .photo_glav {
+    position: absolute;
+    top: 1120px;
+    left: 500px;
+  }
+    .g1, .g2{
+    display: block;
+    margin-top: 20px;
+  }
+  .g2 {
+    position: absolute;
+    top: 260px;
+  }
+  .g11 {
+    font-family: "Arial";
+    position: absolute;
+    top: 1130px;
+    left: 740px;
+    font-size: 17px;
+  }
+  }
